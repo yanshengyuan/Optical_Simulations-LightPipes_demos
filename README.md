@@ -20,7 +20,9 @@ How to run the simulation and visualization:
 
 3, Then you will see the real-time simulation and its in-loop visualization on the data inspector screen.
 
-4, The specific visual effect can be referred from the demo videos in the Bilibili video channel I shared at the beginning.
+4, For the demo simulation "GS Algorithm Phase Retrieval", please open the python script in the folder and specify the path to your images or npy array fiels of the two planes then run the script.
+
+5, The specific visual effect can be referred from the demo videos in the Bilibili video channel I shared at the beginning.
 
 
 Have Fun!! And please come back to check this repository regularly and more often. And please also follow and check my video channel regularly: https://b23.tv/PHikTIF
